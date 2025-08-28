@@ -1,4 +1,4 @@
-l=input("Enter runes:")
+l=input("Enter Runes in the Pouch:")
 x="LUMOS"
 l=l.upper()
 k=0
@@ -18,4 +18,5 @@ if(len(j)==5):
   print(f)
 else:
     print("-1")
+
 
