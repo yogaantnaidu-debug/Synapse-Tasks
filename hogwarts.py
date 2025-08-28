@@ -16,7 +16,9 @@ for i in range (0,len(l)) :
                break
 if(len(j)==5):
   print(f)
+  print("✨💡✨✨💡✨✨💡✨")
 else:
     print("-1")
+
 
 
